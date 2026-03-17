@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hello, Worgzek here
 
-<!--
-**Worgzek/Worgzek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##  About Me
 
-Here are some ideas to get you started:
+*  Major: Information Technology
+*  University: Posts and Telecommunications Institute of Technology
+*  I am interested in working with data and building data systems
+*  I enjoy learning about data processing, databases, and ETL pipelines
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Goals
+
+* Become a skilled Data Engineer
+* Build real-world data projects
+* Improve my programming and problem-solving skills
+
+##  Skills (Learning)
+
+* Python
+* SQL
+* Git & GitHub
+* Data pipelines (ETL)
+
+*love working with data and turning it into useful information*
