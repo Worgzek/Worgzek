@@ -18,5 +18,7 @@
 * SQL
 * Git & GitHub
 * Data pipelines (ETL)
+* Docker
+* Airflow
 
 *love working with data and turning it into useful information*
