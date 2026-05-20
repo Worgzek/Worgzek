@@ -12,14 +12,12 @@
 * Build real-world data projects
 * Improve my programming and problem-solving skills
 
-##  Skills
+##  Tech Stack
 
-* Python
-* SQL
-* Git & GitHub
-* Data pipelines (ETL)
-* Docker
-* Databases: PostgresSQL, MongoDB
-* Frameworks: Flask, FastAPI, Apache Airflow
+* Languages:   Python, SQL
+* Frameworks:   Flask, Airflow
+* Libraries:   Pandas, Psycopg, Loguru
+* Databases:   PostgresSQL, MongoDB
+* Tools /   Infrastructure: Docker, Grafana, Git/GitHub
 
 *love working with data and turning it into useful information*
