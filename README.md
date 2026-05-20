@@ -18,6 +18,6 @@
 * Frameworks:   Flask, Airflow
 * Libraries:   Pandas, Psycopg, Loguru
 * Databases:   PostgresSQL, MongoDB
-* Tools /   Infrastructure: Docker, Grafana, Git/GitHub
+* Tools / Infrastructure: Docker, Grafana, Postman, Git/GitHub
 
 *love working with data and turning it into useful information*
