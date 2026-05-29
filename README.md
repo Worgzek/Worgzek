@@ -14,9 +14,8 @@
 
 ##  Tech Stack
 
-* Languages:   Python, SQL
+* Languages:   Python(Pandas), SQL
 * Frameworks:   Flask, Airflow
-* Libraries:   Pandas, Psycopg, Loguru
 * Databases:   PostgresSQL, MongoDB
 * Tools / Infrastructure: Docker, Grafana, Postman, Git/GitHub
 
