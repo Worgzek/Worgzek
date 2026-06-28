@@ -2,7 +2,7 @@
 
 ##  About Me
 
-*  *Information Technology* Freshman at Posts and Telecommunications Institute of Technology (PTIT)
+*  *Bachelor of Information Technology* at Posts and Telecommunications Institute of Technology (PTIT)
 *  I am interested in working with data and building data systems
 *  I enjoy learning about data processing, databases, and ETL pipelines
 
