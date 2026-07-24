@@ -15,8 +15,8 @@
 ##  Tech Stack
 
 * Languages:   Python(Pandas), SQL
-* Frameworks:   Flask, Airflow
+* Frameworks:   Flask, FastAPI, Airflow
 * Databases:   PostgresSQL, MongoDB
-* Tools / Infrastructure: Docker, Grafana, Postman, Git/GitHub
+* Tools / Infrastructure: Docker, Postman, Git/GitHub
 
 *love working with data and turning it into useful information*
